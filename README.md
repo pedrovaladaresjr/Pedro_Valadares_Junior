@@ -3,19 +3,33 @@
 O dataset contém as seguintes colunas: 
 
 Customer ID: é um ID único atribuído a cada cliente com base no país.
+
 Purchase Date:  A data de compra para um cliente está em um formato de data curta.
+
 Product Category: A categoria do produto no site.
+
 Product Price: O preço do item comprado.
+
 Quantity:  O número de produtos que os clientes compraram.
+
 Total Purchase Amount: A compra desde a compra atual.
-NPS: O fator de satisfação do cliente (0 o pior para 10 o melhor)
+
+NPS: O fator de satisfação do cliente (0 o pior para 10 o melhor).
+
 Customer Age: Este campo é um intervalo de campo numérico de 18-70.
+
 Gender: Masculino/ Feminino.
+
 Source: a fonte onde o cliente é redirecionado para o site.
+
 Country: País do cliente. (Estados Unidos/ Canadá)
+
 State: Estado do cliente.
-Latitude: Latitude do estado vivo
-Longitude: Longitude do estado de vida.
+
+Latitude: Latitude do estado.
+
+Longitude: Longitude do estado.
+
 
 ### Para responder nossa análise foi utilizado um teste de hipótese para variáveis categórias, o Teste Qui-quadrado.
 
